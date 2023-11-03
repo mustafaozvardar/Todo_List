@@ -1,2 +1,2 @@
 # Todo_List
- todo list
+ todo list app with react native.
